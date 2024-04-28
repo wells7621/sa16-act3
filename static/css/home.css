@@ -1,0 +1,28 @@
+#home-container {
+    display: flex;
+    align-items: center;
+    /* background-color: lightblue; */
+    padding: 20px;
+}
+
+#home-container img {
+max-width: 50%;
+}
+
+#home-container p {
+margin-left: 20px;
+}
+
+body {
+    background-color: white;
+    padding: 20px;
+} 
+
+
+#home-container {
+    padding: 20px; 
+}
+
+p {
+    font-size: 30px;
+}
